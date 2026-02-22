@@ -658,11 +658,9 @@ curl -X POST "http://127.0.0.1:8000/ask" \
 }
 ```
 
----
 
-## ✨ Features
 
-### ✅ Implemented
+### ✅ Features Implemented
 
 - [x] PDF ingestion with deduplication
 - [x] Page-aware text chunking
@@ -680,6 +678,10 @@ curl -X POST "http://127.0.0.1:8000/ask" \
 
 ---
 
-**Last Updated**: 2024
+**Last Updated**: 2025
 **Python Version**: 3.11+
-**Status**: Production Ready ✅
+
+**Builted with ❤️ 
+
+** connect me on : https://www.linkedin.com/in/shivanilarokar/
+
