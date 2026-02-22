@@ -678,3 +678,8 @@ curl -X POST "http://127.0.0.1:8000/ask" \
 - [x] FastAPI REST API
 
 
+---
+
+**Last Updated**: 2024
+**Python Version**: 3.11+
+**Status**: Production Ready ✅
