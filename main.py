@@ -86,8 +86,7 @@ def ask(req: AskRequest):
         namespace=namespace,
     )
 
-    # Return sources only once (not duplicated inside the answer).
-    # Keep only sources that are actually referenced like [S1], [S2] in the answer text.
+    
     import re
 
     refs_used = set(re.findall(r"\[(S\d+)\]", ans.answer or ""))
