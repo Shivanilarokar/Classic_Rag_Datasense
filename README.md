@@ -452,8 +452,8 @@ scope = "org"      → org:{org_id}:public
 ### Step 1: Clone Repository
 
 ```bash
-git clone <your-repo-url>
-cd RAG_Architect_Assignment1
+git clone https://github.com/Shivanilarokar/Classic_Rag_Datasense
+cd RAG_ARCHITECT_ASSIGNMENT1
 ```
 
 ### Step 2: Install Dependencies
